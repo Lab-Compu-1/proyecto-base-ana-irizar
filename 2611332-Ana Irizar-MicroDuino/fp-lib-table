@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/2611332-Ana Irizar-MicroDuino-backups/Library.pretty")(options "")(descr ""))
+  (lib (name "usbEmbedded")(type "KiCad")(uri "${KIPRJMOD}/usbEmbedded.pretty")(options "")(descr ""))
+)
